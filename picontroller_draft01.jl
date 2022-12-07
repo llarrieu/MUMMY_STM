@@ -1,5 +1,5 @@
 #this is an implementation of the pi controller for the STM
-    #last edited: 13/11/2022 by Loren Larrieu
+    #last edited: 7/12/2022 by Loren Larrieu
 using Pkg
 Pkg.add("PiGPIO")
 using PiGPIO #to interact with GPIO on raspberry pi
